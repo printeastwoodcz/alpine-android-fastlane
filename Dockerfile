@@ -58,7 +58,7 @@ RUN unzip sdk-tools-linux.zip -d ${ANDROID_HOME} && \
     echo y | ${ANDROID_HOME}/tools/bin/sdkmanager "platforms;android-${ANDROID_COMPILE_SDK}" "build-tools;${ANDROID_BUILD_TOOLS}"
 
 
-COPY Gemfile.lock .
-COPY Gemfile .
-RUN gem install bundle
-RUN bundle install
+# COPY Gemfile.lock .
+# COPY Gemfile .
+# RUN gem install bundle
+# RUN bundle install
