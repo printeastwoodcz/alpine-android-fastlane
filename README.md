@@ -48,7 +48,7 @@ Please [file an issue](https://github.com/printeastwoodcz/alpine-android-fastlan
 
 ## License
 
-Released under the [MIT License](#LICENSE) by Greyfox, Inc.
+Released under the [MIT License](#LICENSE)
 
 [docker-shield]: https://img.shields.io/docker/build/printeastwoodcz/alpine-android-fastlane.svg
 [docker-link]: https://hub.docker.com/r/printeastwoodcz/alpine-android-fastlane/
