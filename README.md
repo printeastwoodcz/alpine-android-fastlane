@@ -1,19 +1,17 @@
 # Alpine Android / Docker 
 
-[![Docker Status][docker-shield]][docker-link] [![Docker Pulls][pulls-shield]][pulls-link] [![Layers][layers-shield]][layers-link] [![Version][version-shield]][version-link]
-
-A minimal Android [Docker](https://www.docker.com/) image based on [Alpine Linux](https://hub.docker.com/r/_/alpine/) and [OpenJDK 8](https://hub.docker.com/r/greyfoxit/alpine-openjdk8/)
+A minimal Android [Docker](https://www.docker.com/) image based on [Alpine Linux](https://hub.docker.com/r/_/alpine/) and [OpenJDK 8](https://hub.docker.com/r/anapsix/alpine-java/)
 
 ## Content &nbsp;/
 
-- Alpine ( **3.6** )
-- OpenJDK 8 ( **8u131** )
-- Android SDK ( **8+ P, API 28, revision 6** )
-- Android SDK Build-Tools ( **28.0.2** )
+- Alpine ( **3.8** )
+- OpenJDK 8 ( **8u202b08** )
+- Android SDK ( **8+ P, API 29** )
+- Android SDK Build-Tools ( **29.0.3** )
 - Android SDK Tools ( **latest** )
 - Android SDK Platform-Tools ( **latest** )
 - Android Support Repository ( **latest** )
-- add-ons: **bash, curl, git, openssl, openssh-client, ca-certificates**
+- add-ons: **bash, curl, git, openssl, openssh-client, ca-certificates, firebase-tools, fastlane**
 
 ## Use this &nbsp;>
 
